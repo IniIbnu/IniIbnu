@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/IniIbnu" width="150" height="150"/>
 </p>
-<h1 align='center'>Hallo bang 👋‹ :wave:</h1>
+<h1 align='center'>Hallo bang:wave:</h1>
 <p align='center'>Hi There, I'm Ibnu</p>
 <p align='center'>
 <a href="https://instagram.com/IniIbnu_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
